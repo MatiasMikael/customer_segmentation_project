@@ -1,0 +1,4 @@
+2025-01-10 13:01:56,273 - INFO - Loading segmented data from 2_data\segmented_Mall_Customers.csv
+2025-01-10 13:01:56,289 - INFO - Segmented data loaded successfully.
+2025-01-10 13:01:56,289 - INFO - Creating cluster visualization...
+2025-01-10 13:01:57,686 - INFO - Cluster visualization saved to 3_results\cluster_visualization.png

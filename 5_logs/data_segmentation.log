@@ -1,0 +1,6 @@
+2025-01-10 12:45:42,556 - INFO - Loading data from 2_data\Mall_Customers.csv
+2025-01-10 12:45:42,609 - INFO - Data loaded successfully.
+2025-01-10 12:45:42,609 - INFO - Starting K-means clustering with 5 clusters.
+2025-01-10 12:45:43,469 - INFO - Clustering completed successfully.
+2025-01-10 12:45:43,469 - INFO - Saving segmented data to 2_data\segmented_Mall_Customers.csv
+2025-01-10 12:45:43,469 - INFO - Segmented data saved successfully.
